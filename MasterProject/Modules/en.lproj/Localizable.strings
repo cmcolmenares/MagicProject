@@ -1,0 +1,9 @@
+
+/* Navigation Strings */
+"navigate" = "Navigate";
+
+/* Error Strings */
+"userLocationError" = "Error retieving user's location";
+"invalidURL" = "Invalid URL";
+"buildingModelError" = "Error building model";
+"pullToRefresh" = "Pull to refresh";

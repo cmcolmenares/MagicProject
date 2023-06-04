@@ -1,0 +1,6 @@
+framework module Pods_MasterProject_MasterProjectUITests {
+  umbrella header "Pods-MasterProject-MasterProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
